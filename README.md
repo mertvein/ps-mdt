@@ -18,6 +18,7 @@ For all support questions, ask in our [Discord](https://www.discord.gg/projectsl
 
 # Credits
 * Originally Echo RP MDT released by [Flawws#999](https://github.com/FlawwsX/erp_mdt)
+* [Real ps-mdt](https://github.com/Project-Sloth/ps-md)
 * [CQC-Scripting](https://github.com/CQC-Scripting) for their [cqc-mugshot](https://github.com/CQC-Scripting/cqc-mugshot)
 * [JoeSzymkowicz](https://github.com/JoeSzymkowicz)
 * [MonkeyWhisper](https://github.com/MonkeyWhisper)
